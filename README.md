@@ -50,12 +50,13 @@ Issuer: Coursera<br/>
 Issued: October 2022<br/>
 Credential ID: YNR6SH7YWPB3<br/><br/>
 
-<!-- Operating Systems and You -->
+<!-- Operating Systems and You: Becoming a Power User -->
 <img src="https://img.shields.io/badge/Coursera-Operating%20Systems%20and%20You-0056D2?style=for-the-badge&logo=coursera" /><br/>
 <b>Operating Systems and You: Becoming a Power User</b><br/>
 Issuer: Coursera<br/>
 Issued: November 2022<br/>
 Credential ID: NCYQD3WPE4CQ<br/><br/>
+
 
 <h2> 🤳 Connect with me:</h2>
 
